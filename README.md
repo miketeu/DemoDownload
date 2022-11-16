@@ -1,2 +1,2 @@
 # DemoDownload
-A demo repository for Boot Camp
+A demo repository for Boot Camp project.
